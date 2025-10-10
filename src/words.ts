@@ -1814,6 +1814,7 @@ export const words: string[] = (`
     civil
     civis
     civismo
+    clamar
     clara
     clarão
     clarear
@@ -6594,7 +6595,6 @@ export const words: string[] = (`
     sábia
     sabiás
     sábias
-    clamar
     sabido
     sábio
     sábios
