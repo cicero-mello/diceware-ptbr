@@ -6594,7 +6594,7 @@ export const words: string[] = (`
     sábia
     sabiás
     sábias
-    sabida
+    clamar
     sabido
     sábio
     sábios
