@@ -44,6 +44,7 @@ console.log(
 - Problematic words have been avoided.
 - Excessive variations of the same word (such as verb conjugation) have been avoided.
 - Extremely little-known words have been avoided.
+- You can manually check all current used words [here](https://github.com/cicero-mello/diceware-ptbr/blob/main/src/words.txt).
 
 ## Tips
 - Brazilian Portuguese has accentuation, so do not use this diceware in projects with fonts without such support.
