@@ -55,6 +55,7 @@ const generatePhrase = (wordsQuantity: number): string => {
     return phrase
 }
 
+export type { DicewareKey } from "./types"
 export const dicewarePTBR = {
     words,
     generateKey,
