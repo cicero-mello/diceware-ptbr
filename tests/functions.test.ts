@@ -1,5 +1,5 @@
 import { expect, test } from "vitest"
-import { dicewarePTBR } from "../src"
+import { dicewarePTBR, getRandomInt } from "../src"
 import { DicewareKey } from "../src/types"
 
 test("Must generate valid random keys", () => {
@@ -82,4 +82,28 @@ test("Must generate random passphrase", () => {
     )
 
     expect(uniqueWordsInPassphrase.size).greaterThan(3)
+})
+
+test("Must generate valid passphrase", () => {
+    const phrase = dicewarePTBR.generatePhrase(999)
+    const words = phrase.split("")
+
+    words.forEach(word => {
+        expect(word != "undefined").toBeTruthy()
+        expect(word != "null").toBeTruthy()
+        expect(word).toBeTruthy()
+    })
+})
+
+test("Must generate valid int values", () => {
+    const values = Array.from({ length: 100 }).map(() => (
+        getRandomInt(10)
+    ))
+
+    expect(new Set(values).size).toBeGreaterThan(2)
+
+    values.forEach((value) => {
+        expect(value).toBeGreaterThanOrEqual(0)
+        expect(value).toBeLessThanOrEqual(10)
+    })
 })
