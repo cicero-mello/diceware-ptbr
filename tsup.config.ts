@@ -1,4 +1,3 @@
-import { copyFileSync } from "fs"
 import { defineConfig } from "tsup"
 
 export default defineConfig({
