@@ -2,22 +2,24 @@ import type { DicewareKey } from "./types"
 import { words } from "./words"
 
 /**
- * Generates a random diceware key based on Math.random.
- * @returns Diceware Key ("11111"-"66666")
+ * Generates a random int number using crypto.getRandomValues.
+ * @param max Max random int number (inclusive)
+ * @returns Random int number from 0 to max
  */
+export const getRandomInt = (max: number): number => {
+    const randomBuffer = new Uint32Array(1)
+    crypto.getRandomValues(randomBuffer)
+    return randomBuffer[0]! % (max + 1)
+}
+
 const generateKey = (): DicewareKey => {
     let key = ""
     for (let i = 0; i < 5; i++) {
-        key += Math.floor(Math.random() * 6 + 1)
+        key += getRandomInt(5) + 1
     }
     return key as DicewareKey
 }
 
-/**
- * Converts a Diceware Key into a word list index.
- * @param key Diceware Key ("11111"-"66666")
- * @returns Word index (number from 0 to 7775)
- */
 const keyToIndex = (key: DicewareKey): number => {
     let index = 0
     for (let i = 0; i < 5; i++) {
@@ -27,21 +29,11 @@ const keyToIndex = (key: DicewareKey): number => {
     return index
 }
 
-/**
- * Get the corresponding word of the Diceware Key.
- * @param key Diceware Key ("11111" - "66666")
- * @returns Corresponding word
- */
 const getWord = (key: DicewareKey): string => {
     const index = keyToIndex(key)
     return words[index]!
 }
 
-/**
- * Generates a random passphrase.
- * @param wordsQuantity
- * @returns String following the format: "word1 word2 word3"
- */
 const generatePhrase = (wordsQuantity: number): string => {
     let phrase = ""
 
@@ -58,8 +50,27 @@ const generatePhrase = (wordsQuantity: number): string => {
 export type { DicewareKey } from "./types"
 export const dicewarePTBR = {
     words,
+    /**
+     * Generates a random diceware key based on crypto.getRandomValues.
+     * @returns Diceware Key ("11111"-"66666")
+     */
     generateKey,
+    /**
+     * Converts a Diceware Key into a word list index.
+     * @param key Diceware Key ("11111"-"66666")
+     * @returns Word index (number from 0 to 7775)
+     */
     keyToIndex,
+    /**
+     * Get the corresponding word of the Diceware Key.
+     * @param key Diceware Key ("11111" - "66666")
+     * @returns Corresponding word
+     */
     getWord,
+    /**
+     * Generates a random passphrase.
+     * @param wordsQuantity Number of words in the passphrase
+     * @returns String following the format: "word1 word2 word3"
+     */
     generatePhrase
 }

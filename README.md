@@ -26,14 +26,19 @@ console.log(
 | `words`           | Array with all 7776 words from the diceware list      | ``dicewarePTBR.words``                            |
 | `generatePhrase`  | Generates a random passphrase based on words quantity | ``dicewarePTBR.generatePhrase(8)``                |
 | `generateKey`     | Generates a random Diceware Key                       | ``dicewarePTBR.generateKey()``                    |
-| `keyToIndex`      | Converts a Diceware Key into a word list index        | ``dicewarePTBR.keyToIndex("11111")``             |
+| `keyToIndex`      | Converts a Diceware Key into a word list index        | ``dicewarePTBR.keyToIndex("11111")``              |
 | `getWord`         | Get the corresponding word based on a Diceware Key    | ``dicewarePTBR.getWord("11111")``                 |
 
 ### Types:
 
-| Name              | Description                                           | Example                                           |
-|-------------------|-------------------------------------------------------|---------------------------------------------------|
-| `DicewareKey`     | String with 5 number characters from "1" to "6".      | ``"11111"``, ``"66666"``, ``"12346"``...          |
+| Name              | Description                                           | Example                                   |
+|-------------------|-------------------------------------------------------|-------------------------------------------|
+| `DicewareKey`     | String with 5 number characters from "1" to "6"       | ``"11111"``, ``"66666"``, ``"12346"``...  |
+
+### Others:
+| Name              | Description                                                                                       | Example               |
+|-------------------|---------------------------------------------------------------------------------------------------|-----------------------|
+| `getRandomInt`    | Generates a random int number from 0 to an max inclusive value using `crypto.getRandomValues()`   | `getRandomInt(10)`    |
 
 
 ---
