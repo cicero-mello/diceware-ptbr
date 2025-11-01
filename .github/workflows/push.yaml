@@ -1,4 +1,4 @@
-name: CI/CD - (Build and Tests and Publish NPM Package)
+name: CI/CD - (Build, Tests, Bump Version and Publish NPM Package)
 
 on:
     push:
