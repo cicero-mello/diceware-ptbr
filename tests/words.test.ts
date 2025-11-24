@@ -1,5 +1,6 @@
 import { expect, test } from "vitest"
 import { dicewarePTBR } from "../src"
+import fs from "fs/promises"
 
 test("List must have 7776 words", () => {
     expect(dicewarePTBR.words.length).toBe(7776)
@@ -52,4 +53,17 @@ test("Words must use PTBR Alphabet without hyphens", () => {
     )
 
     expect(notPTBRWord).toBe(undefined)
+})
+
+test(`Words in "words.txt" must coincide with words in "words.ts"`, async () => {
+    const textFromTxt = await fs.readFile("words.txt", "utf8")
+
+    const wordsFromTxt = textFromTxt
+        .split(/\r?\n/)
+        .map(w => w.trim())
+        .filter(Boolean)
+
+    wordsFromTxt.forEach((_, i) => {
+        expect(wordsFromTxt[i]).toEqual(dicewarePTBR.words[i])
+    })
 })

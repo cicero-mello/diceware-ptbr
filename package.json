@@ -1,7 +1,7 @@
 {
     "name": "diceware-ptbr",
     "description": "Brazilian portuguese diceware list with useful functions.",
-    "version": "2.0.3",
+    "version": "3.0.0",
     "type": "module",
     "author": "Cícero Mello",
     "license": "MIT",
@@ -10,7 +10,11 @@
     "types": "dist/index.d.ts",
     "scripts": {
         "build": "tsup",
-        "test": "vitest"
+        "test": "vitest",
+        "update-words": "node ./scripts/update-words.js",
+        "update-blacklist": "node ./scripts/update-blacklist.js",
+        "update-changelog": "node ./scripts/update-changelog.js",
+        "demo": "tsup && node ./scripts/demo"
     },
     "devDependencies": {
         "@types/node": "^24.5.2",
