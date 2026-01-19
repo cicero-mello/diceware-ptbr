@@ -47,12 +47,13 @@ console.log(
 ## Notes
 - All words have between 4 and 7 letters.
 - Problematic words have been avoided.
+- Non-ASCII words have been avoided.
+- Proper nouns have been avoided.
 - Excessive variations of the same word (such as verb conjugation) have been avoided.
 - Extremely little-known words have been avoided.
 - You can manually check all current used words [here](https://github.com/cicero-mello/diceware-ptbr/blob/main/words.txt).
 
 ## Tips
-- Brazilian Portuguese has accentuation, so do not use this diceware in projects with fonts without such support.
 - Warn your user that sentences with negative interpretations may arise due to the randomness of words (even with a set of words avoiding huge offenses, the random combination of words can generate a sentence that can be interpreted in a pejorative way about something)
 
 ## Do you speak Portuguese? Feel free to improve the list! 😊
