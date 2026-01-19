@@ -76,6 +76,7 @@ acender
 aceno
 acenos
 acento
+acerola
 acertar
 acerto
 acervo
@@ -108,7 +109,6 @@ acorde
 acordes
 acordo
 acordos
-Acre
 acuada
 acuado
 acuador
@@ -266,13 +266,11 @@ ajudas
 ajustar
 ajuste
 ajustes
-Alabama
 alada
 alado
 alagada
 alagado
 alagar
-Alagoas
 alar
 alarde
 alargar
@@ -416,6 +414,7 @@ amido
 amidos
 amieiro
 amiga
+amigar
 amigas
 amigo
 amigona
@@ -426,6 +425,7 @@ amolado
 amolar
 amor
 amora
+amoras
 amores
 amorico
 amorosa
@@ -442,6 +442,7 @@ amputar
 amuleto
 anais
 ancorar
+andaime
 andante
 andar
 andares
@@ -457,7 +458,6 @@ anexar
 anexo
 anexos
 anfioxo
-Angola
 anil
 anilada
 anilado
@@ -541,7 +541,7 @@ apossar
 aposta
 apostar
 apostas
-apostos
+aprovar
 apta
 apto
 aptos
@@ -594,12 +594,12 @@ arenas
 arenito
 arenosa
 arenoso
-Ares
 aresta
 arestas
 argila
 argilas
 argola
+argolas
 aridez
 arisco
 arma
@@ -706,7 +706,6 @@ ataques
 atar
 atear
 atelier
-Atenas
 atender
 atentar
 atento
@@ -728,7 +727,6 @@ ativado
 ativar
 ativo
 ativos
-Atlas
 atleta
 atletas
 atoa
@@ -839,7 +837,9 @@ bacon
 badalo
 baderna
 bafo
+baga
 bagagem
+bagas
 bago
 bagos
 bagre
@@ -1017,7 +1017,6 @@ bengala
 benigna
 benigno
 bens
-Berlim
 bermuda
 berrar
 berro
@@ -1198,7 +1197,6 @@ borrar
 bosque
 bosques
 bosta
-Boston
 bota
 botar
 botas
@@ -1216,7 +1214,6 @@ boxe
 boxear
 boxer
 boxes
-Bozo
 bradar
 brado
 brados
@@ -1231,7 +1228,6 @@ brandir
 brando
 brasa
 brasas
-Brasil
 brava
 bravo
 bravura
@@ -1318,6 +1314,7 @@ buscas
 busto
 butano
 butique
+buxo
 buxos
 buzina
 buzinar
@@ -1345,6 +1342,7 @@ cachola
 cachopa
 cachos
 cacique
+caco
 cacos
 cacto
 cactos
@@ -1511,11 +1509,9 @@ cargo
 cargos
 cariada
 cariado
-Caribe
 carimbo
 carinha
 carinho
-carioca
 carisma
 carnal
 carne
@@ -1542,6 +1538,7 @@ cartela
 cartola
 cartuxo
 casa
+casaca
 casacas
 casaco
 casacos
@@ -1632,7 +1629,6 @@ cela
 celas
 celeiro
 celeste
-celtas
 celular
 cena
 cenoura
@@ -1734,10 +1730,8 @@ chiados
 chiar
 chifre
 chifres
-Chile
 chilena
 chileno
-China
 chinelo
 chinesa
 chip
@@ -1766,6 +1760,7 @@ chupada
 chupado
 chupar
 chupeta
+churro
 churros
 chutado
 chutar
@@ -1930,7 +1925,6 @@ colhida
 colidir
 colina
 colinas
-Coliseu
 colmeia
 colo
 colocar
@@ -2086,6 +2080,7 @@ cozidas
 cozido
 cozidos
 cozinha
+craca
 cracas
 craque
 craques
@@ -2149,7 +2144,6 @@ crus
 cruz
 cruzado
 cruzar
-Cuba
 cubano
 cubanos
 cubeta
@@ -2401,7 +2395,6 @@ diaba
 diabete
 diabo
 dialeto
-Diana
 diante
 dias
 dica
@@ -2427,7 +2420,6 @@ dilema
 dilemas
 diluir
 diodo
-Diogo
 diploma
 dique
 direita
@@ -2512,7 +2504,6 @@ dopada
 dopado
 dopados
 dopar
-Dora
 dorama
 dores
 dormir
@@ -2553,12 +2544,10 @@ drones
 druida
 druidas
 duas
-Dubai
 dublada
 dublado
 dublar
 ducha
-Duda
 duelar
 duelo
 duelos
@@ -2605,7 +2594,6 @@ efetiva
 efetivo
 efetuar
 eficaz
-Egito
 eita
 eixo
 eixos
@@ -2637,7 +2625,6 @@ elogiar
 elogio
 elogios
 elos
-Elza
 emanar
 emas
 embalar
@@ -2648,6 +2635,7 @@ embate
 emblema
 embora
 embuste
+emenda
 emendar
 emendas
 emergir
@@ -2765,9 +2753,7 @@ enxuto
 enxutos
 enzima
 enzimas
-Enzo
 epopeia
-Equador
 equino
 equipar
 equipe
@@ -2778,6 +2764,7 @@ erguida
 erguido
 ermo
 ermos
+erodir
 erosiva
 erosivo
 errada
@@ -2836,11 +2823,10 @@ esgotar
 esgoto
 esgotos
 esgrima
+esguia
 esguias
 esguio
 esguios
-eslavas
-eslavos
 esmagar
 esmalte
 esmeril
@@ -3201,6 +3187,7 @@ festiva
 festivo
 fetiche
 feudal
+feudo
 feudos
 fezes
 fiado
@@ -3430,7 +3417,6 @@ fraude
 fraudes
 freada
 frear
-Fred
 freezer
 freio
 freios
@@ -3614,7 +3600,6 @@ gatonas
 gatos
 gatuno
 gaveta
-gays
 gaze
 gazebo
 gazebos
@@ -3696,6 +3681,7 @@ gnomos
 goiaba
 goiabas
 gola
+golada
 goladas
 golas
 gole
@@ -3707,7 +3693,6 @@ goles
 golfe
 golfo
 golfos
-Golias
 golpe
 golpear
 golpes
@@ -3827,9 +3812,10 @@ gude
 gueixa
 guerra
 gueto
-Guga
 guia
 guiada
+guiadas
+guiado
 guiados
 guiar
 guias
@@ -3845,8 +3831,6 @@ gume
 habitar
 habitat
 hacker
-Hades
-Haiti
 halter
 hamster
 hangar
@@ -3858,13 +3842,11 @@ hastes
 haver
 hebreu
 hectare
-Hera
 herdada
 herdado
 herdar
 herege
 heresia
-Hermes
 herpes
 hesitar
 hexa
@@ -3881,7 +3863,6 @@ hippie
 hipster
 hobbies
 hoje
-Holanda
 homem
 homens
 honesta
@@ -3905,7 +3886,6 @@ hostel
 hostil
 hostis
 hotel
-Hugo
 humana
 humanas
 humano
@@ -3914,8 +3894,6 @@ humilde
 humor
 humores
 hype
-Iago
-Iara
 iate
 iates
 idade
@@ -3953,6 +3931,7 @@ ilhados
 ilhas
 ilhota
 ilhotas
+iludida
 iludido
 iludir
 ilustre
@@ -4028,6 +4007,7 @@ indagar
 indiana
 indiano
 indicar
+indigna
 indigno
 indolor
 indulto
@@ -4041,10 +4021,12 @@ infeliz
 inferir
 inferno
 infiel
+inflada
 inflado
 inflar
 ingerir
 inglesa
+ingrata
 ingrato
 inhame
 inhames
@@ -4067,6 +4049,7 @@ inserir
 inseto
 insetos
 insulto
+insumo
 insumos
 intacta
 intacto
@@ -4092,8 +4075,6 @@ ioga
 iogurte
 irado
 irados
-Irene
-Irlanda
 ironia
 ironias
 irreais
@@ -4120,8 +4101,9 @@ jaguar
 jaguara
 jaleco
 jalecos
-Jamaica
 jamais
+jambo
+jambos
 janeiro
 janela
 janelas
@@ -4146,7 +4128,6 @@ jaulas
 javali
 javalis
 jazz
-Jean
 jeans
 jegue
 jegues
@@ -4156,7 +4137,6 @@ jejum
 jiboias
 jipe
 jipes
-Joana
 jocoso
 joelho
 joelhos
@@ -4168,10 +4148,8 @@ jogados
 jogar
 jogo
 jogos
-John
 joia
 joias
-Jorge
 jornada
 jornais
 jornal
@@ -4200,6 +4178,7 @@ junto
 juntos
 jurada
 juradas
+jurado
 jurados
 jurar
 jurista
@@ -4214,10 +4193,10 @@ ketchup
 kimono
 kiwi
 kiwis
-Kraken
 labial
 labuta
 laca
+lacaia
 lacaio
 lacaios
 lacear
@@ -4276,6 +4255,7 @@ lapso
 lapsos
 laranja
 lareira
+larga
 largada
 largado
 largar
@@ -4437,7 +4417,6 @@ linha
 linhas
 liquor
 lisa
-Lisboa
 liso
 lisos
 lista
@@ -4497,6 +4476,7 @@ longos
 lontra
 lorde
 lordes
+lorota
 lorotas
 losango
 lotada
@@ -4504,6 +4484,7 @@ lotado
 lotados
 lotar
 lote
+lotear
 loteria
 lotes
 louca
@@ -4519,7 +4500,6 @@ louvar
 luar
 luas
 luau
-Lucas
 lucidez
 lucrar
 lucro
@@ -4571,11 +4551,11 @@ madame
 madames
 madeira
 madre
-Madri
 madura
 maduro
 maestra
 maestro
+mafiosa
 mafioso
 maga
 magas
@@ -4620,6 +4600,7 @@ malhar
 maligna
 maligno
 malinha
+malote
 malotes
 malte
 maluca
@@ -4708,7 +4689,6 @@ maresia
 marfim
 margem
 margens
-Maria
 marido
 maridos
 marina
@@ -4716,7 +4696,6 @@ marinar
 marinas
 marinha
 marinho
-Mario
 marisco
 marmelo
 marmita
@@ -4727,7 +4706,6 @@ maroto
 marotos
 marra
 marrom
-Marte
 martelo
 marujo
 marujos
@@ -4784,7 +4762,6 @@ medrosa
 medroso
 medula
 medusa
-Medusa
 mega
 meia
 meias
@@ -4820,6 +4797,7 @@ mensal
 menta
 mentais
 mental
+mentas
 mente
 mentes
 mentir
@@ -4867,7 +4845,6 @@ mexido
 mexidos
 miado
 miados
-Miami
 miar
 miasma
 mico
@@ -4988,7 +4965,6 @@ molotov
 molusco
 momento
 monarca
-monges
 monitor
 monja
 mono
@@ -5022,9 +4998,11 @@ morros
 morsa
 morsas
 morse
+morta
 mortais
 mortal
 mortas
+morte
 mortes
 morto
 mortos
@@ -5068,6 +5046,7 @@ muleta
 muletas
 mulher
 multa
+multada
 multado
 multar
 multas
@@ -5164,7 +5143,6 @@ nenhum
 nenhuma
 neon
 neons
-Nepal
 nerd
 nervo
 nervos
@@ -5235,7 +5213,6 @@ normal
 normas
 norte
 nortear
-Noruega
 nota
 notado
 notar
@@ -5287,7 +5264,9 @@ objetos
 obra
 obras
 obrigar
+obscena
 obsceno
+obscura
 obscuro
 obter
 obtido
@@ -5314,7 +5293,6 @@ odiadas
 odiado
 odiados
 odiar
-Odin
 odiosa
 odioso
 odonto
@@ -5326,6 +5304,7 @@ ofender
 ofensa
 ofensas
 oferta
+ofertar
 ofertas
 oficial
 oficina
@@ -5353,11 +5332,13 @@ olhar
 olhares
 olho
 olhos
+olhuda
 olhudas
 oliva
 ombro
 ombros
 omelete
+omissa
 omisso
 omissor
 omitir
@@ -5395,6 +5376,7 @@ oriente
 origem
 orla
 orlas
+ornada
 ornadas
 ornado
 ornados
@@ -5499,7 +5481,6 @@ pandas
 pane
 panela
 panelas
-Pangeia
 paninho
 pano
 panos
@@ -5534,7 +5515,6 @@ paredes
 parente
 pares
 parir
-Paris
 parque
 parques
 parruda
@@ -5575,15 +5555,14 @@ patente
 pateta
 patife
 patinar
+patinha
 patinho
 patins
 pato
 patos
 patroa
 patroas
-Paula
 paulada
-Paulo
 paus
 pausa
 pausada
@@ -5612,7 +5591,6 @@ pedir
 pedra
 pedrada
 pedras
-Pedro
 pegada
 pegadas
 pegador
@@ -5636,7 +5614,6 @@ peleia
 peles
 pelo
 pelos
-pelotas
 peluda
 peludas
 peludo
@@ -5680,6 +5657,7 @@ perfis
 perfume
 perigo
 perigos
+perita
 perito
 peritos
 permuta
@@ -5861,6 +5839,7 @@ pobres
 pobreza
 pochete
 poda
+podada
 podado
 podador
 podar
@@ -6301,11 +6280,14 @@ regatas
 regente
 reger
 reggae
+regida
+regido
 regidos
 regime
 regimes
 rego
 regra
+regrada
 regrado
 regras
 regue
@@ -6332,6 +6314,7 @@ remador
 remar
 remedir
 remela
+remenda
 remendo
 remessa
 remeter
@@ -6489,7 +6472,6 @@ roedor
 roedora
 roer
 rogar
-Roger
 rolar
 roldana
 roleta
@@ -6498,7 +6480,6 @@ rolhas
 rolinha
 rolinho
 rolo
-Roma
 romana
 romance
 romano
@@ -6514,6 +6495,7 @@ roncos
 rondar
 rosa
 rosada
+rosado
 rosados
 rosas
 rosbife
@@ -6561,7 +6543,10 @@ rugido
 rugidos
 rugir
 rugosa
+rugosas
+rugoso
 rugosos
+ruidosa
 ruidoso
 ruim
 ruinar
@@ -6665,17 +6650,20 @@ sarna
 sarrar
 sarro
 sashimi
+saturar
 saudade
 saudar
 sauna
 savana
 sazonal
+sebo
 sebos
 seboso
 secador
 secagem
 secar
 seco
+secreta
 secreto
 seda
 sedada
@@ -6702,6 +6690,7 @@ seios
 seis
 seita
 seiva
+sela
 selada
 selado
 selar
@@ -6723,7 +6712,6 @@ semente
 sempre
 senado
 senador
-Senegal
 senha
 senhas
 senhor
@@ -6748,11 +6736,13 @@ seriado
 serial
 seringa
 serra
+serrada
 serrado
 serrar
 serras
 serrote
 servir
+sestear
 seta
 setas
 sete
@@ -6880,6 +6870,7 @@ sortear
 sorteio
 sortida
 sortido
+sortuda
 sortudo
 sorvete
 sotaque
@@ -6922,6 +6913,7 @@ sufixos
 sufoca
 sufocar
 sufoco
+sugada
 sugado
 sugador
 sugar
@@ -6948,6 +6940,7 @@ superar
 supino
 supor
 suporte
+suposta
 suposto
 suprema
 supremo
@@ -6966,6 +6959,7 @@ surra
 surrar
 surras
 surreal
+surtada
 surtado
 surtar
 surto
@@ -7005,6 +6999,7 @@ tamanco
 tamanho
 tambor
 tampa
+tampada
 tampado
 tampar
 tampas
@@ -7044,6 +7039,7 @@ taurina
 taurino
 taverna
 taxa
+taxada
 taxado
 taxador
 taxar
@@ -7114,6 +7110,7 @@ tese
 tesoura
 tesouro
 testa
+testada
 testado
 testar
 testas
@@ -7130,7 +7127,6 @@ textos
 textual
 textura
 texugo
-Thor
 tiara
 tias
 tigela
@@ -7184,6 +7180,7 @@ todos
 tofu
 toga
 togas
+tola
 toldo
 toldos
 tolete
@@ -7235,6 +7232,7 @@ tortas
 torto
 torvo
 tosa
+tosada
 tosadas
 tosar
 tosas
@@ -7366,6 +7364,7 @@ truco
 trufa
 trufado
 trufas
+trunfo
 trunfos
 trupe
 truque
@@ -7399,7 +7398,6 @@ turma
 turmas
 turno
 turnos
-Turquia
 turvar
 turvas
 turvo
@@ -7419,6 +7417,7 @@ ultra
 ultraje
 umbigo
 umbra
+umbu
 umidade
 unha
 unhada
@@ -7564,7 +7563,6 @@ vender
 vendida
 veneno
 venerar
-Veneza
 venoso
 ventar
 vento
@@ -7631,6 +7629,7 @@ vigente
 vigia
 vigiar
 vigor
+vigorar
 viking
 vikings
 vila
@@ -7719,6 +7718,7 @@ vontade
 voos
 voraz
 vorazes
+votada
 votado
 votar
 voto
