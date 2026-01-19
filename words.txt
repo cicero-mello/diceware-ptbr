@@ -2271,6 +2271,7 @@ dedo
 dedos
 dedurar
 deduzir
+defasar
 defecar
 defesa
 defesas
@@ -3070,7 +3071,6 @@ fardos
 farejar
 farejo
 farelo
-fariam
 faringe
 farinha
 faro
