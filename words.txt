@@ -4857,7 +4857,6 @@ mijada
 mijado
 mijando
 mijar
-mijaram
 mijo
 milagre
 milenar
@@ -6024,6 +6023,7 @@ propano
 propina
 propor
 prosa
+prosar
 prosas
 prova
 provado
