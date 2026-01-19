@@ -1,7 +1,7 @@
 {
     "name": "diceware-ptbr",
     "description": "Brazilian portuguese diceware list with useful functions.",
-    "version": "3.0.1",
+    "version": "3.1.0",
     "type": "module",
     "author": "Cícero Mello",
     "license": "MIT",
