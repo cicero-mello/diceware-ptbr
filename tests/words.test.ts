@@ -7,9 +7,15 @@ test("List must have 7776 words", () => {
 })
 
 test("List must not contain duplicate words", () => {
-    const uniqueWords = new Set(dicewarePTBR.words)
+    const uniqueWords = new Set<string>()
+    const duplicatedWords: string[] = []
 
-    expect(uniqueWords.size).toBe(dicewarePTBR.words.length)
+    dicewarePTBR.words.forEach((word) => {
+        if (uniqueWords.has(word)) duplicatedWords.push(word)
+        else uniqueWords.add(word)
+    })
+
+    expect(duplicatedWords).toEqual([])
 })
 
 test("List must be in alphabetic order", () => {
