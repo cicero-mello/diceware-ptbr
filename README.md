@@ -57,4 +57,4 @@ console.log(
 - Warn your user that sentences with negative interpretations may arise due to the randomness of words (even with a set of words avoiding huge offenses, the random combination of words can generate a sentence that can be interpreted in a pejorative way about something)
 
 ## Do you speak Portuguese? Feel free to improve the list! 😊
-You can find more information about how to do that [here](https://gist.github.com/cicero-mello/1ad2669a5edf7584b3d8057b3108bd45).
+You can find more information about how to do that [here](https://github.com/cicero-mello/diceware-ptbr?tab=contributing-ov-file).
